@@ -66,5 +66,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [404-page-he.netlify.app](https://404-he.netlify.app)
+- Website [404-he.netlify.app](https://404-he.netlify.app)
 - GitHub [@HoussamProgrammer](https://github.com/HoussamProgrammer)
